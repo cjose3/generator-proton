@@ -1,0 +1,30 @@
+{
+  "name": "generator-proton",
+  "version": "0.0.2",
+  "description": "Generator for Proton microframework",
+  "author": {
+    "name": "Carlos Marcano",
+    "email": "cmarcano631@gmail.com"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "yeoman-generator",
+    "node",
+    "koa",
+    "api"
+  ],
+  "license": "Apache-2.0",
+  "engines": {
+    "node": "~4.2.2"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "glob": "^7.0.3",
+    "yeoman-generator": "^0.22.4",
+    "yosay": "^1.1.0"
+  },
+  "devDependencies": {}
+}
